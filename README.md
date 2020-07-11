@@ -1,5 +1,6 @@
 ### Backend & DevOps Engineer
 
+- 산업기능요원
 - Python & Django
 - Java & Spring
 - Amazon Web Service
