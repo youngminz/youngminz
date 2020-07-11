@@ -1,4 +1,8 @@
-### Hi there 👋
+### Backend & DevOps Engineer
+
+- Python & Django
+- Java & Spring
+- Amazon Web Service
 
 <!--
 **youngminz/youngminz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
