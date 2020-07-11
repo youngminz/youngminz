@@ -1,9 +1,9 @@
 ### Backend & DevOps Engineer
 
-- 산업기능요원
-- Python & Django
-- Java & Spring
-- Amazon Web Service
+- Does not hesitate to learn new skills
+- Language: Python/Django, Java/Spring
+- Cloud: Amazon Web Services
+- CV (Korean): https://youngminz.netlify.app/pages/resume
 
 <!--
 **youngminz/youngminz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
