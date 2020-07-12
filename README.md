@@ -2,8 +2,8 @@
 
 - Does not hesitate to learn new skills
 - Language: Python/Django, Java/Spring
-- Cloud: Amazon Web Services
-- Resume (Korean): https://youngminz.netlify.app/pages/resume
+- Infra: Amazon Web Services
+- [Resume (Korean)](https://youngminz.netlify.app/pages/resume)
 
 <!--
 **youngminz/youngminz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
