@@ -3,8 +3,8 @@
 - Does not hesitate to learn new skills
 - Working at [@Hyperconnect](https://github.com/hyperconnect)
 - Language: Python/Django, Java/Spring
-- Interested: Web Scraping, Automation
 - Infra: Amazon Web Services
+- Interested: Web Scraping, Automation
 - [Resume (Korean)](https://youngminz.netlify.app/pages/resume)
 
 <!--
