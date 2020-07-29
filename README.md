@@ -2,8 +2,8 @@
 
 - Does not hesitate to learn new skills
 - Working at [@Hyperconnect](https://github.com/hyperconnect)
-- Language: Python/Django, Kotlin/Spring
-- Infra: Amazon Web Services
+- Skill: Python/Django, Kotlin/Spring, AWS
+- Domain: P2P Finance, Social Network
 - Interested: Web Scraping, Automation
 - [Resume (Korean)](https://youngminz.netlify.app/pages/resume)
 
