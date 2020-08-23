@@ -2,7 +2,7 @@
 
 - Does not hesitate to learn new skills
 - Working at [@Hyperconnect](https://github.com/hyperconnect)
-- Skill: Python/Django, Kotlin/Spring, AWS
+- Skill: Python/Django, Kotlin/Spring, MySQL, PostgreSQL, AWS
 - Interested: Web Scraping, Automation
 - [Resume (Korean)](https://youngminz.netlify.app/pages/resume)
 
