@@ -1,4 +1,4 @@
-### Backend & DevOps Engineer
+### Youngmin Koo - Backend & DevOps Engineer
 
 - Does not hesitate to learn new skills
 - Working at [@Hyperconnect](https://github.com/hyperconnect)
