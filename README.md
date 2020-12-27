@@ -1,5 +1,7 @@
 ### Youngmin Koo - Backend & DevOps Engineer
 
+Hi! 👋 I am a 4 year Backend Software Engineer capable of DevOps, mainly using Python and Django. I am a proactive person who can find things to do and get things done.
+
 - I enjoy learning new skills
 - Working at [@Hyperconnect](https://github.com/hyperconnect)
 - Skill: Python/Django, MySQL, PostgreSQL, AWS
