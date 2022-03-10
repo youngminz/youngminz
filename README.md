@@ -4,7 +4,7 @@ Hi! 👋 I am a 5 year Backend Software Engineer capable of DevOps, mainly using
 
 - I enjoy learning new skills
 - Working at [@Hyperconnect](https://github.com/hyperconnect)
-- Skill: Python/Django, MySQL, PostgreSQL, AWS
+- Skill: Kotlin/Spring, Python/Django, MySQL, PostgreSQL, AWS
 - [Resume (Korean)](https://youngminz.netlify.app/pages/resume)
 
 <!--
