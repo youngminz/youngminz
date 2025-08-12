@@ -3,7 +3,6 @@
 Hi! 👋 I am a 7 year Backend Software Engineer capable of DevOps, mainly using Spring and Kotlin. I am a proactive person who can find things to do and get things done.
 
 - I enjoy learning new skills
-- Working at [@Hyperconnect](https://github.com/hyperconnect)
 - Skill: Kotlin/Spring, Python/Django, MySQL, PostgreSQL, AWS
 
 <!--
